@@ -1,6 +1,7 @@
 # Emotion Detection Using OpenCV
 
-Demo:
+# Demo
+
 ![Man~ (Happy)](Demo.png)
 
 ## What is this
